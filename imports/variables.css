@@ -1,0 +1,18 @@
+:root {
+    --background-body: #161616;
+    --background-header-nav: #25192F;
+    --background-footer: #1C1C34;
+    --text-logo: "refrigerator-deluxe", sans-serif;
+    --text-h1: "rubrik-edge-new", sans-serif;
+    --text-h2: "refrigerator-deluxe", sans-serif;
+    --text-h3: "video", sans-serif;
+    --text-p-nav: "rubrik-edge-new", sans-serif;
+    --text-p: "roboto", sans-serif;
+    --text-a: "refrigerator-deluxe", sans-serif;
+    --text-color-logo: #4A93B4;
+    --text-color-h1: #FFFFFF;
+    --text-color-h2: #FFFFFF;
+    --text-color-h3: #e3e3e3;
+    --text-color-p-nav: #e0e0e0;
+    --text-color-p: #FFFFFF;
+}
