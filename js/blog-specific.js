@@ -4,7 +4,7 @@ const parameters = new URLSearchParams(queryString);
 
 const id = parameters.get("id");
 
-const url = "http://stiankornbakk.com/databases/wp-json/wp/v2/posts/" + id;
+const url = "https://stiankornbakk.com/databases/wp-json/wp/v2/posts/" + id;
 
 const titleContainer = document.querySelector(".title-container");
 
