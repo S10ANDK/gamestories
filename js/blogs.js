@@ -7,7 +7,7 @@ const topButton = document.querySelector(".top_button");
 const pageHeading = document.querySelector(".page-heading");
 
 const databaseUrl =
-  "http://stiankornbakk.com/database/wp-json/wp/v2/posts?per_page=12";
+  "http://stiankornbakk.com/databases/wp-json/wp/v2/posts?per_page=12";
 
 async function executeApiCall() {
   try {
